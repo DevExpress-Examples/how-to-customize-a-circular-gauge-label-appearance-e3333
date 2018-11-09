@@ -1,4 +1,4 @@
-﻿<Window x:Class="Q328451.MainWindow"
+<Window x:Class="Q328451.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="MainWindow" Height="350" Width="525" xmlns:dxga="http://schemas.devexpress.com/winfx/2008/xaml/gauges" xmlns:dxc="http://schemas.devexpress.com/winfx/2008/xaml/charts">
