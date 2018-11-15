@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/Q328451/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/Q328451/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/Q328451/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/Q328451/MainWindow.xaml))
+<!-- default file list end -->
 # How to customize a circular gauge label appearance
 
 
